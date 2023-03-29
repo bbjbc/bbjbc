@@ -18,7 +18,8 @@
 <br/>
         
 #### :postbox: contact
-<span>:mailbox:aoo4550@naver.com</span>  <span>:school:aoo4550@kyonggi.ac.kr</span>
+<span>:mailbox:aoo4550@naver.com</span>  
+<span>:school:aoo4550@kyonggi.ac.kr</span>
 <br/>
         
 #### ⚔️ Skills
