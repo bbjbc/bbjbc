@@ -10,12 +10,13 @@
 <a href="http://www.instagram.com/boongranii/"><img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/boongranii/&logoColor=green"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<br/>
         
 #### :postbox: contact
 <span>:mailbox:aoo4550@naver.com</span>  <span>:school:aoo4550@kyonggi.ac.kr</span>
-  
-#### ⚔️ Skills
 <br/>
+        
+#### ⚔️ Skills
 <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow"><br>
