@@ -11,6 +11,10 @@
         <div><b><i>No pain, no gain</i></b></div>
 <br/>
 
+####  👑 Certificate
+<img src="https://img.shields.io/badge/SQLD-3776AB?style=flat-square">
+        
+        
 ####  :beginner:SNS
 <a href="http://www.instagram.com/boongranii/"><img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/boongranii/&logoColor=green"
