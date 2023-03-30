@@ -12,7 +12,8 @@
 <br/>
 
 ####  👑 Certificate
-<img src="https://img.shields.io/badge/SQLD-3776AB?style=flat-square">
+<img src="https://img.shields.io/badge/SQLD-3776AB?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSTS(FL)-39sa8a?style=for-the-badge">
         
         
 ####  :beginner:SNS
