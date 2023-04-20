@@ -1,7 +1,7 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Boongranii&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-####  🐶 최고의 열정을 뽐내는 깃허브 쿼카
+####  🐶 최고의 열정을 뽐내는 깃허브 쿼카 🐒
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbbjbc%2Fhit-counter&count_bg=%2360D680&title_bg=%23956031&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br/>
         <div><b>안녕하세요! 최고의 열정을 뽐내는 깃허브 쿼카 Boongranii라고 합니다.</b></div>
@@ -11,23 +11,23 @@
         <div><b><i>No pain, no gain</i></b></div>
 <br/>
 
-####  👑 Certificate
+####  👑 Certificate 👑
 <img src="https://img.shields.io/badge/SQLD-3776AB?style=for-the-badge">
 <img src="https://img.shields.io/badge/CSTS(FL)-39sa8a?style=for-the-badge">
         
         
-####  :beginner:SNS
+####  :beginner:SNS:beginner:
 <a href="http://www.instagram.com/boongranii/"><img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/boongranii/&logoColor=green"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <br/>
         
-#### :postbox: contact
+#### :postbox:contact:postbox:
 <span>:mailbox:aoo4550@naver.com</span>  
 <span>:school:aoo4550@kyonggi.ac.kr</span>
 <br/>
         
-#### ⚔️ Skills
+#### ⚔️ Skills ⚔️
 <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
