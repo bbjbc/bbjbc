@@ -18,24 +18,27 @@
         
 ####  :beginner:SNS:beginner:
 <a href="http://www.instagram.com/boongranii/"><img 
-        src="http://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/boongranii/&logoColor=green"
+        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/boongranii/&logoColor=green"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <br/>
         
-#### :postbox:contact:postbox:
-<span>:mailbox:aoo4550@naver.com</span>  
-<span>:school:aoo4550@kyonggi.ac.kr</span>
+#### :postbox:Contact:postbox:
+<img src="https://img.shields.io/badge/📫-aoo4550@naver.com-blue">   
+<img src="https://img.shields.io/badge/🏫-aoo4550@kyonggi.ac.kr-green">
 <br/>
         
-#### ⚔️ Skills ⚔️
+#### ⚔️ Studying ⚔️
 <!-- <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><br> -->
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=Nodemon&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"><br>
 
 
 
