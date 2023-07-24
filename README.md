@@ -16,9 +16,12 @@
 <img src="https://img.shields.io/badge/CSTS(FL)-39sa8a?style=for-the-badge">
         
         
-####  :beginner:SNS:beginner:
+####  :beginner:Site:beginner:
 <a href="http://www.instagram.com/boongranii/"><img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/boongranii/&logoColor=green"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="http://bbjbc.github.io"><img 
+        src="http://img.shields.io/badge/-Github.io-181717?style=flat&logo=Github&link=http://bbjbc.github.io&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <br/>
         
