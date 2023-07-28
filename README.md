@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"><br>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbjbc&show_icons=true&theme=default_repocard)
 
   
 </div>
