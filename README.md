@@ -11,13 +11,11 @@
         <div><b><i>No pain, no gain</i></b></div>
 <br/>
 
-
-<table border="2">
+<table border="0">
         <tr>
                 <th>Certificate</th>
                 <th>Site</th>
                 <th>Contact</th>
-                <th>Language</th>
         </tr>
         <tr>
                 <td>
@@ -30,14 +28,15 @@
                 </td>
                 <td>
                         <img src="https://img.shields.io/badge/📫-aoo4550@naver.com-blue"> <br>
-                        <img src="https://img.shields.io/badge/🏫-aoo4550@kyonggi.ac.kr-green">                
+                        <img src="https://img.shields.io/badge/🏫-aoo4550@kyonggi.ac.kr-green">        
                 </td>
-                <td>
-                        <img src="https://github.com/bbjbc/bbjbc/assets/102457140/5317d495-7117-44e8-a7c8-a038db404d7c" width="70" /> &nbsp;
-                        <img src="https://github.com/bbjbc/bbjbc/assets/102457140/0e89b02a-345c-44a9-88f4-294cceb04765" width="70" /> &nbsp;
-                        <img src="https://github.com/bbjbc/bbjbc/assets/102457140/6acd8e30-964f-49fe-8c7d-0432de34804e" width="70" /> &nbsp;
-                        <img src="https://github.com/bbjbc/bbjbc/assets/102457140/28f66cd3-bd08-4557-80b8-8c90fbf45eb8" width="70" />
-                </td>
-        
+        </tr>
 </table>
+<br>
+
+### 📈 Languages
+<img src="https://github.com/bbjbc/bbjbc/assets/102457140/5317d495-7117-44e8-a7c8-a038db404d7c" width="70" /> &nbsp;
+<img src="https://github.com/bbjbc/bbjbc/assets/102457140/0e89b02a-345c-44a9-88f4-294cceb04765" width="70" /> &nbsp;
+<img src="https://github.com/bbjbc/bbjbc/assets/102457140/6acd8e30-964f-49fe-8c7d-0432de34804e" width="70" /> &nbsp;
+<img src="https://github.com/bbjbc/bbjbc/assets/102457140/28f66cd3-bd08-4557-80b8-8c90fbf45eb8" width="70" />
 </div>
