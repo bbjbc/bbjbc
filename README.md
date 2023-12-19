@@ -11,27 +11,10 @@
         <div><b><i>No pain, no gain</i></b></div>
 <br/>
 
-<table border="0">
-        <tr>
-                <th>Certificate</th>
-                <th>Site</th>
-                <th>Contact</th>
-        </tr>
-        <tr>
-                <td>
-                        <img src="https://github.com/bbjbc/bbjbc/assets/102457140/aa33a41a-6473-4e28-a3cc-d0ce8585bd14" width="70"> &nbsp;
-                        <img src="https://github.com/bbjbc/bbjbc/assets/102457140/ccfa7e8f-7784-4f40-a570-393f934335ee" width="70"> 
-                </td>
-                <td>
-                        <a href="https://bbjbc.github.io"><img src="https://github.com/bbjbc/bbjbc/assets/102457140/870d50da-f390-4b47-a57a-9e7d95a93d62" width="70" /></a> &nbsp;
-                        <a href="https://www.instagram.com/boongranii"><img src="https://github.com/bbjbc/bbjbc/assets/102457140/2c0b8b46-cdee-4a59-a3cb-4d3fb2ad45eb" width="70" /></a> 
-                </td>
-                <td>
-                        <img src="https://img.shields.io/badge/📫-aoo4550@naver.com-blue"> <br>
-                        <img src="https://img.shields.io/badge/🏫-aoo4550@kyonggi.ac.kr-green">        
-                </td>
-        </tr>
-</table>
+|Certificate|Site|Contact|
+|:--:|:--:|:--:|
+|<img src="https://github.com/bbjbc/bbjbc/assets/102457140/aa33a41a-6473-4e28-a3cc-d0ce8585bd14" width="70"> &nbsp;<img src="https://github.com/bbjbc/bbjbc/assets/102457140/ccfa7e8f-7784-4f40-a570-393f934335ee" width="70"> | <a href="https://bbjbc.github.io"><img src="https://github.com/bbjbc/bbjbc/assets/102457140/870d50da-f390-4b47-a57a-9e7d95a93d62" width="70" /></a> &nbsp; <a href="https://www.instagram.com/boongranii"><img src="https://github.com/bbjbc/bbjbc/assets/102457140/2c0b8b46-cdee-4a59-a3cb-4d3fb2ad45eb" width="70" /></a> | <img src="https://img.shields.io/badge/📫-aoo4550@naver.com-blue"> <br> <img src="https://img.shields.io/badge/🏫-aoo4550@kyonggi.ac.kr-green">  
+
 <br>
 
 ### 📈 Languages
