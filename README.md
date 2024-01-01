@@ -13,13 +13,13 @@
 
 |Certificate|Site|Contact|
 |:--:|:--:|:--:|
-|<img src="https://github.com/bbjbc/bbjbc/assets/102457140/aa33a41a-6473-4e28-a3cc-d0ce8585bd14" width="70"> &nbsp;<img src="https://github.com/bbjbc/bbjbc/assets/102457140/ccfa7e8f-7784-4f40-a570-393f934335ee" width="70"> | <a href="https://bbjbc.github.io"><img src="https://github.com/bbjbc/bbjbc/assets/102457140/870d50da-f390-4b47-a57a-9e7d95a93d62" width="70" /></a> &nbsp; <a href="https://www.instagram.com/boongranii"><img src="https://github.com/bbjbc/bbjbc/assets/102457140/2c0b8b46-cdee-4a59-a3cb-4d3fb2ad45eb" width="70" /></a> | <img src="https://img.shields.io/badge/📫-aoo4550@naver.com-blue"> <br> <img src="https://img.shields.io/badge/🏫-aoo4550@kyonggi.ac.kr-green">  
+|<img src="https://img.shields.io/badge/CSTS(FL)-3776AB?style=for-the-badge"> <br> <img src="https://img.shields.io/badge/SQLD-FD5F07?style=for-the-badge"> | <a href="https://bbjbc.github.io"><img src="https://github.com/bbjbc/bbjbc/assets/102457140/21ac3ef9-0e52-44bc-9733-a89d325edaac" width="60" /></a> &nbsp; <a href="https://www.instagram.com/boongranii"><img src="https://github.com/bbjbc/bbjbc/assets/102457140/62c46d84-60b6-46e9-8d4b-17b024b1d400" width="60" /></a> | <img src="https://img.shields.io/badge/📫-aoo4550@naver.com-blue"> <br> <img src="https://img.shields.io/badge/🏫-aoo4550@kyonggi.ac.kr-green">  
 
 <br>
 
 ### 📈 Languages
-<img src="https://github.com/bbjbc/bbjbc/assets/102457140/5317d495-7117-44e8-a7c8-a038db404d7c" width="70" /> &nbsp;
-<img src="https://github.com/bbjbc/bbjbc/assets/102457140/0e89b02a-345c-44a9-88f4-294cceb04765" width="70" /> &nbsp;
-<img src="https://github.com/bbjbc/bbjbc/assets/102457140/6acd8e30-964f-49fe-8c7d-0432de34804e" width="70" /> &nbsp;
-<img src="https://github.com/bbjbc/bbjbc/assets/102457140/28f66cd3-bd08-4557-80b8-8c90fbf45eb8" width="70" />
+<img src="https://github.com/bbjbc/bbjbc/assets/102457140/7a32684d-6dd9-4b9a-a37f-643292ad278b" width="60" /> &nbsp;
+<img src="https://github.com/bbjbc/bbjbc/assets/102457140/d130aaf3-6246-4cfb-a175-5ab0a83dac2f" width="60" /> &nbsp;
+<img src="https://github.com/bbjbc/bbjbc/assets/102457140/b25a3215-ebcf-43c5-9f3a-2d6e7356fcad" width="60" /> &nbsp;
+<img src="https://github.com/bbjbc/bbjbc/assets/102457140/b5e362e9-e0f0-4ce0-8b99-6a4c51c14a00" width="60" />
 </div>
