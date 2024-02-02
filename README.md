@@ -20,8 +20,11 @@
 <br>
 
 ### 📈 Languages
-<img src="https://github.com/bbjbc/bbjbc/assets/102457140/7a32684d-6dd9-4b9a-a37f-643292ad278b" width="60" /> &nbsp;
-<img src="https://github.com/bbjbc/bbjbc/assets/102457140/d130aaf3-6246-4cfb-a175-5ab0a83dac2f" width="60" /> &nbsp;
-<img src="https://github.com/bbjbc/bbjbc/assets/102457140/b25a3215-ebcf-43c5-9f3a-2d6e7356fcad" width="60" /> &nbsp;
-<img src="https://github.com/bbjbc/bbjbc/assets/102457140/b5e362e9-e0f0-4ce0-8b99-6a4c51c14a00" width="60" />
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js" width="70" /> &nbsp;
+    <img src="https://skillicons.dev/icons?i=express" width="70" /> &nbsp;
+    <img src="https://skillicons.dev/icons?i=nodejs" width="70" /> &nbsp;
+    <img src="https://skillicons.dev/icons?i=react" width="70" /> &nbsp;
+    <img src="https://skillicons.dev/icons?i=next" width="70" /> 
+</p>
 </div>
