@@ -1,5 +1,5 @@
 <div align="center">       
-        <img src="https://tech-orbit.wontory.dev/api?title=Boongranii&tech=javascript,express,tailwind%20css,react" />
+        <img src="https://tech-orbit.wontory.dev/api?title=Boongranii&tech=javascript,express,tailwind%20css,react&size=500" />
 </div>
 
 <div align="left">   
