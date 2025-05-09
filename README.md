@@ -1,13 +1,11 @@
 <div align="center">       
   <img src="https://tech-orbit.wontory.dev/api?title=Boongranii&tech=typescript,tailwind%20css,react,next.js" width="350px" />
 </div>
-
-## 반갑습니다. 조병찬입니다👋
         
 ```md
-"Where code meets creativity, experiences come alive."
-코드와 창의성이 만나는 곳에서, 경험이 살아 숨쉬기 시작합니다.
+"𝑾𝒉𝒆𝒓𝒆 𝒄𝒐𝒅𝒆 𝒎𝒆𝒆𝒕𝒔 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚, 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆𝒔 𝒄𝒐𝒎𝒆 𝒂𝒍𝒊𝒗𝒆."
 
+코드와 창의성이 만나는 곳에서, 경험이 살아 숨쉬기 시작합니다.
 이 믿음으로 사용자에게는 의미 있는 경험을, 팀원에게는 함께하고 싶은 개발자가 되고자 합니다.
 ```
 
